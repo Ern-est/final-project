@@ -1,0 +1,39 @@
+body {
+    background-image: url(/images/rose.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main {
+    text-align: center;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: auto;
+    color: coral;
+
+}
+.con {
+    color: chartreuse;
+    font-size: 70px;
+    align-items: center;
+    display: flex;
+    margin-top: auto;
+    text-align: center;
+}
+span{
+    color: deeppink;
+    text-align: center;
+    align-items: center;
+}
+.login {
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+}
+.final {
+    text-align: center;
+    color: crimson;
+}
+.final h2 {
+    font-size: 40px;
+}
