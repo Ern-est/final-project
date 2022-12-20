@@ -26,3 +26,12 @@ fetch(API_URL, {
   .catch(error => {
     console.error(error);
   });
+  document.getElementById("btn btn-outline-success").addEventListener("click", function() {
+    window.location.href = "https://www.pdfdrive.com/";
+  });
+  document.getElementById("submitButton").addEventListener("click", function(event) {
+    event.preventDefault(); // Prevent the form from being submitted
+    window.location.href = "http://www.moringaschool.com";
+  });
+  
+  
